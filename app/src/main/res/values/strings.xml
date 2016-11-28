@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Speed Limit Sign</string>
+
+    <string name="title_HaveSpace">มีช่องว่าง</string>
+    <string name="message_HaveSpace">กรุณากรอกทุกช่อง คะ</string>
+    <string name="title_UserFalse">User ผิด</string>
+    <string name="message_UserFalse">ไม่มี User นี่ในฐานข้อมูลของเรา</string>
+    <string name="title_PasswordFalse">Password ผิด</string>
+    <string name="message_PasswordFalse">ลองพิมพ์ใหม่ Password ผิด</string>
+    <string name="title_activity_center_page">CenterPage</string>
+
+
+
+    <string name="map_type_none">None</string>
+    <string name="map_type_normal">Normal</string>
+    <string name="map_type_terrain">Terrain</string>
+    <string name="map_type_satellite">Satellite</string>
+    <string name="map_type_hybrid">Hybrid</string>
+
+</resources>
